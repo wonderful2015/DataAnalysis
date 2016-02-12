@@ -1,6 +1,7 @@
 figure <- function()
 {
   par(mfrow=c(2,2))
+  # Divide the figure window into four parts.
   mydata <- read.csv("data.csv")
   attach(mydata)
   #Those codes above are data-reading.
