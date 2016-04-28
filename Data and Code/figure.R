@@ -1,3 +1,4 @@
+#!/usr/bin/env Rscript
 figure <- function()
 {
   par(mfrow=c(2,2))
