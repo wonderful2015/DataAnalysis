@@ -22,4 +22,3 @@ yhat2
 a37=2*yhat1(end)-yhat2(end)
 b37=2*(yhat1(end)-yhat2(end))/(n-1)
 y2015=a37+b37
-%GDP
